@@ -19,7 +19,7 @@ namespace TestingCalculator
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Input data is incorrect \n Please, try again ");
+                    Console.WriteLine("Input data is incorrect \nPlease, try again\n");
                 }
             }
         }
